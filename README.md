@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi I'm Tyroo 👋🏾👨🏽‍💻
 
-<!--
-**T-Wesst/T-Wesst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front End Web Developer who is passionate about elavating people and building a community by teaching how to code. Some technologies I enjoy working with inlcude React.js and Node.js.
 
-Here are some ideas to get you started:
+### I'm looking for 🕵🏽‍♂️:
+<hr>
+Front End React Developer position
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find Me Online 🌍
+<hr>
+[LinkedIn](https://www.linkedin.com/in/tyroowest/)
+
+### Fun Facts 🤪:
+<hr>
+- I enjoy Meditation
+- Highly competitive in Airsoft
