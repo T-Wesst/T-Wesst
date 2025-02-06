@@ -11,16 +11,13 @@ I'm a DevOps Engineer with a background in full-stack web development and a pass
 🛠️ What I’m Working On
 
 - Continuously learning and honing my skills in DevOps, cloud technologies, and automation tools.
-- Growing [Tailor Made Auto Detailing](https://www.tailormadeautodetailing.com/), a business I co-founded with my son 🚗✨. Exploring advanced detailing products and setting up mobile services for a seamless customer experience.
-
 
 🌱 Fun Facts
 
 - I got my start through a training program at Beach Coders Academy.
-- When I’m not coding, I’m either detailing cars, solving puzzles, or hanging out with my son.
+- When I’m not coding, I’m either detailing cars, solving puzzles, or learning something new.
 
 Feel free to reach out, connect, or collaborate. 🚀
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tyroowest)
